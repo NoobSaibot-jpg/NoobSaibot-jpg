@@ -1,5 +1,3 @@
-[![Header]()]('https://github.com/NoobSaibot-jpg/NoobSaibot-jpg/blob/main/assets/noob-saibot-ultimate-mortal-kombat-442011704.jpg')(https://noobsaibot-jpg.github.io/)
-
 
 
 ### Languages and Tools:
